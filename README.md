@@ -27,12 +27,14 @@ James: The problem is that there is an extra "," in the gui code. I have made a 
 
 What NOT to do:
 
-Tom (but stupid):your code sucks nerd lololol make functional software lmao 🤣 the code broke hahahaha I clicked 3 buttons that don't work and my game crashed
+Tom (but stupid): Your code sucks nerd lololol make functional software lmao 🤣 the code broke hahahaha I clicked 3 buttons that don't work and my game crashed
 
 *2 days later*
 
 James: user error
 *issue closed*
+
+https://github.com/Dyvinia/FrostyFix/issues/47
 
 Act II: The Fork and Pull Request
 
