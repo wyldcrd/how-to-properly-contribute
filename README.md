@@ -54,5 +54,7 @@ What not to do:
 Add so much code that the devs don't want to look through all of it and add malicious code into the fork, get it pulled 
 and added until someone notices notifies the right people and gets it removed, getting your account potentially suspended.
 
-Just have common sense.
+https://www.tomshardware.com/news/linux-fellow-bans-university-contributing-kernel
+
+I have been exaggerating a bit but please just have common sense.
 The End.
